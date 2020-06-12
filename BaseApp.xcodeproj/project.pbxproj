@@ -56,15 +56,23 @@
 		308C7DA62493733C007E9E07 /* BaseApp */ = {
 			isa = PBXGroup;
 			children = (
-				308C7DA72493733C007E9E07 /* AppDelegate.swift */,
-				308C7DA92493733C007E9E07 /* SceneDelegate.swift */,
+				308C7DBB24937355007E9E07 /* Supporting Files */,
 				308C7DAB2493733C007E9E07 /* ViewController.swift */,
 				308C7DAD2493733C007E9E07 /* Main.storyboard */,
 				308C7DB02493733C007E9E07 /* Assets.xcassets */,
-				308C7DB22493733C007E9E07 /* LaunchScreen.storyboard */,
 				308C7DB52493733C007E9E07 /* Info.plist */,
 			);
 			path = BaseApp;
+			sourceTree = "<group>";
+		};
+		308C7DBB24937355007E9E07 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				308C7DB22493733C007E9E07 /* LaunchScreen.storyboard */,
+				308C7DA92493733C007E9E07 /* SceneDelegate.swift */,
+				308C7DA72493733C007E9E07 /* AppDelegate.swift */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
